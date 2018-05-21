@@ -1,8 +1,33 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{923901DA-447E-391A-3307-AF991713ED2A}",
+	"EngineAssociation": "4.19",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "SteamBlast",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
