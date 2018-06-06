@@ -3,7 +3,7 @@
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
 /LTCG
-"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
-"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
-"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\PCLaunch.rc.res"
-/OUT:"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin-Win64-Shipping.lib"
+"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\PCLaunch.rc.res"
+/OUT:"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin-Win64-Shipping.lib"

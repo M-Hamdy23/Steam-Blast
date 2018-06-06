@@ -22,10 +22,10 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Private\PhysicsEngine"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\OpenVRExpansionPlugin"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Inc\OpenVRExpansionPlugin"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -312,8 +312,8 @@
 /DSTEAMVRCONTROLLER_API=
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp"
-/Fo"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp"
+/Fo"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Shipping\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
 /TP
 /GR-
 /W4

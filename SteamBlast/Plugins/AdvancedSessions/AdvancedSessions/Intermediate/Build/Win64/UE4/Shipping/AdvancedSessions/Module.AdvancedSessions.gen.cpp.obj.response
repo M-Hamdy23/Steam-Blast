@@ -21,11 +21,11 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions"
-/I "C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions"
+/I "C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -316,8 +316,8 @@
 /DSOCKETS_API=
 /D_HAS_EXCEPTIONS=0
 /D_HAS_EXCEPTIONS=0
-"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
-/Fo"C:\Users\SteamBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
+/Fo"C:\Users\SteamFuckingBlast\Documents\Unreal Projects\Steam-Blast\SteamBlast\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4
