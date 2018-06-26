@@ -6,7 +6,7 @@ public class SteamBlast : ModuleRules
 {
 	public SteamBlast(ReadOnlyTargetRules Target) : base(Target)
     {
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
