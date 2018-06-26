@@ -24,17 +24,17 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private\SimpleChar
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private\SimpleChar
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Private\PhysicsEngine"
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Grippables
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Interactibles
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\Misc
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\SimpleChar
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
+/I C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -410,9 +410,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.cpp"
-/FI"C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Fo"C:\Users\kawai\Documents\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.cpp.obj"
+"C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.cpp"
+/FI"C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Fo"C:\Steam-Blast\SteamBlast\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.cpp.obj"
 /TP
 /GR-
 /W4
